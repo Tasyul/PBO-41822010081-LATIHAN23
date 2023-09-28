@@ -1,6 +1,12 @@
 package TASYA;
 import java.util.Scanner;
-
+/**
+ * @author nstsy
+ * Nama : Anastasya azami
+ * NIM : 41822010081
+ * Nama : Syadella Putri Ardana
+ * NIM: 41822010037
+ */
 public class PBO_41822010081_LATIHAN23 {
     public static void main(String[] args) {
         System.out.println("======= Program Nilai Terbesar dan Terkecil Nilai Mahasiswa ========");
